@@ -14,7 +14,7 @@ function gameObject() {
                     blocks: 1,
                     slamDunks: 1,
                 },
-                "Reggie Evans": {
+                "Reggie Evens": {
                     number: 30,
                     shoe: 14,
                     points: 12,
@@ -100,7 +100,7 @@ function gameObject() {
                     blocks: 1,
                     slamDunks: 0,
                 },
-                "Brendan Haywood": {
+                "Brendan Hayword": {
                     number: 33,
                     shoe: 15,
                     points: 6,
@@ -263,5 +263,4 @@ function doesLongNameStealATon() {
 
   return longestName === topStealer;
 }
-
 
