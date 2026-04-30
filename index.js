@@ -263,4 +263,20 @@ function doesLongNameStealATon() {
 
   return longestName === topStealer;
 }
+module.exports = {
+  gameObject,
+  allPlayers,
+  numPointsScored,
+  shoeSize,
+  teamColors,
+  teamNames,
+  playerNumbers,
+  playerStats,
+  bigShoeRebounds,
+  mostPointsScored,
+  winningTeam,
+  playerWithLongestName,
+  doesLongNameStealATon
+};
+
 
